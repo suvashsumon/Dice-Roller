@@ -21,4 +21,13 @@
         android:layout_gravity="center_horizontal"
         android:text="@string/roll" />
 
+    <TextView
+        android:layout_width="133dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:paddingTop="50sp"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:text="@string/developer" />
+
 </LinearLayout>
